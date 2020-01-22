@@ -73,8 +73,13 @@ opacity: 0.8;
 
 .page-header{
 	display: flex;
+<<<<<<< Updated upstream
 	width: 100%;
 	padding: 20px;
+=======
+	width: 80%;
+	padding: 40px;
+>>>>>>> Stashed changes
 }
 
 .page-header_item{
@@ -227,6 +232,30 @@ opacity: 0.8;
 #div3{
 	background-color: var(--dark-grey);
 }
+<<<<<<< Updated upstream
+=======
+.contact ul li{
+	clear: both;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	
+
+}
+
+.index-footer{
+    clear: both;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	
+
+}
+
+
+
+
+>>>>>>> Stashed changes
 
 
 
